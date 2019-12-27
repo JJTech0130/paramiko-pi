@@ -3,7 +3,7 @@
 These are the wheels that are neccesary
 for installing paramiko and/or PyNaCl
 on the Raspberry Pi. You may only need
-the PyMaCl wheel
+the PyNaCl wheel
 
 **IMPORTANT:**
 
