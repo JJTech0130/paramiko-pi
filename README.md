@@ -5,7 +5,9 @@ for installing paramiko and/or PyNaCl
 on the Raspberry Pi. You may only need
 the PyNaCl wheel
 
-**IMPORTANT:**
+**These are for ARM7l *not* ARM64, Aarch64, or any other ARM Architecture!**
+
+## IMPORTANT:
 
 THESE FILES MAY MOT BE UP TO DATE THEY
 WERE MADE FOR THE CONVINIENCE OF
