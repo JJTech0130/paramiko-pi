@@ -1,4 +1,4 @@
-# ParamicoPiWheels
+# Paramiko Pi
 
 These are the wheels that are neccesary
 for installing paramiko and/or PyNaCl
